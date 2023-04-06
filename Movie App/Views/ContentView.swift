@@ -13,7 +13,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView{
             Group{
-                HomeTabView()
+                HomeTabView().toolbarBackground(.gray, for: .navigationBar)
                 
             }
             .navigationViewStyle(.stack)
