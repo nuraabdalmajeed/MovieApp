@@ -1,0 +1,31 @@
+/*
+ Localizable.strings
+ 
+ //  Movie App
+ //
+ //  Created by AMN on 4/5/23.
+ //  Copyright © 2023 Nura. All rights reserved.
+ 
+ */
+
+"English"="الإنجليزية";
+"Arabic"="العربية";
+"Email"="البريد الإلكتروني";
+"Language"="اللغة";
+"Favorite Genre"="النوع المفضل";
+"Save"="حفظ";
+"Settings"="الإعدادات";
+"Movies"="أفلام";
+"Discover"="اكتشف";
+"Action"="أكشن";
+"comedy"="كوميدى";
+"Horror"="إثارة";
+"UpComing"="قريباً";
+"Trending"="رائج";
+"NowPlaying"="يعرض الآن";
+"Search..."="ابحث...";
+"Reviews"="الآراء";
+"Show >"="عرض >";
+"Cast"="فريق العمل";
+"Release Date:"="تاريخ الإطلاق:";
+"details"="تفاصيل";

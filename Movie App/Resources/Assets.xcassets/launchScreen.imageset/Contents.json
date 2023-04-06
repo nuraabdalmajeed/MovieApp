@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "kisspng-data-recovery-video-file-format-computer-software-video-icon-5ac34d64ea1ca1.6803670915227487729589.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "kisspng-data-recovery-video-file-format-computer-software-video-icon-5ac34d64ea1ca1.6803670915227487729589@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "kisspng-data-recovery-video-file-format-computer-software-video-icon-5ac34d64ea1ca1.6803670915227487729589@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

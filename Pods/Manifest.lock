@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.6.4)
+  - IQDropDownTextField (2.0)
+  - IQKeyboardManagerSwift (6.5.11)
+  - SDWebImage (5.15.5):
+    - SDWebImage/Core (= 5.15.5)
+  - SDWebImage/Core (5.15.5)
+  - SDWebImageSwiftUI (2.2.2):
+    - SDWebImage (~> 5.10)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQDropDownTextField (= 2.0.0)
+  - IQKeyboardManagerSwift
+  - SDWebImageSwiftUI
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQDropDownTextField
+    - IQKeyboardManagerSwift
+    - SDWebImage
+    - SDWebImageSwiftUI
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  IQDropDownTextField: 79293d19042b6f2ee6f02decf4a0e68e59e4f327
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  SDWebImage: fd7e1a22f00303e058058278639bf6196ee431fe
+  SDWebImageSwiftUI: 54ded4115b4ac6cd60b78f61415f86d070892d98
+
+PODFILE CHECKSUM: e73ace2f02a7f4d7e5b09889238655386703b3df
+
+COCOAPODS: 1.11.3

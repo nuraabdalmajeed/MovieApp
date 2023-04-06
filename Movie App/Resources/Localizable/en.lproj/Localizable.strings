@@ -1,0 +1,31 @@
+/* 
+ Localizable.strings
+ 
+ //  Movie App
+ //
+ //  Created by AMN on 4/5/23.
+ //  Copyright © 2023 Nura. All rights reserved.
+ 
+ */
+
+"English"="English";
+"Arabic"="Arabic";
+"Email"="Email";
+"Language"="Language";
+"Favorite Genre"="Favorite Genre";
+"Save"="Save";
+"Settings"="Settings";
+"Movies"="Movies";
+"Discover"="Discover";
+"Action"="Action";
+"comedy"="comedy";
+"Horror"="Horror";
+"UpComing"="UpComing";
+"Trending"="Trending";
+"NowPlaying"="NowPlaying";
+"Search..."="Search...";
+"Reviews"="Reviews";
+"Show >"="Show >";
+"Cast"="Cast";
+"Release Date:"="Release Date:";
+"details"="details";
